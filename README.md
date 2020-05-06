@@ -1,1 +1,3 @@
-# Regression-using-Keras
+# Regression using Keras
+- Data Visualization
+- Regression Model generation using Keras.
